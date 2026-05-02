@@ -1,0 +1,4 @@
+int x = 1.4.3;
+float y = 1..5;
+float z = 1.56;
+int a = 5;
