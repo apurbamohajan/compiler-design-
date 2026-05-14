@@ -9,7 +9,7 @@ keywords = {
     "volatile", "mutable",
     "async", "await", "throw", "try", "catch", "finally",
     "import", "export", "module", "include", "require",
-    "true", "false"
+    "true", "false", "print"
 }
 
 with open("input.txt", "r") as f:
